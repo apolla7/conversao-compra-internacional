@@ -16,3 +16,6 @@ O cálculo final usa a ultima cotação disponível da moeda escolhida, o [valor
 | DKK | Coroa dinamarquesa | 
 | NOK | Coroa norueguesa | 
 | SEK | Coroa sueca | 
+
+# Preview
+![Preview](https://github.com/apolla7/conversao-compra-internacional/blob/main/resources/conversao-moeda-1.png)
