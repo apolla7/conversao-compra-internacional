@@ -18,4 +18,4 @@ O cálculo final usa a ultima cotação disponível da moeda escolhida, o [valor
 | SEK | Coroa sueca | <img align="center" src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/se.svg" width="40" height="30"> |
 
 # Preview
-![Preview](/resources/conversao-moeda-preview.png)
+![Preview](/resources/conversao-moedas-preview.png)
